@@ -3,15 +3,15 @@ an ud fortnite cheat for v19.10
 
 ![55ecd4d233bae0a0d9526ac3ffd2aa32](https://github.com/user-attachments/assets/283ce681-5e2b-4237-b314-bb57167074a3)
 
-# [ 📎 DOWNLOAD ](https://github.com/LegendProjectX/Fortnite-Mason-AIM-WH/releases/download/Mason-Latest/Mason.zip)
+# [ 📎 DOWNLOAD ]()
 
 # System Requierments 
-- Supported game version: Epic Games Launcher 
+- Supported game version: v19.10
 - Supported Game Mode : Windowed / Full Screen in Window
 - Supported W indows OS : 10&11 x64, versions (2004 / 20H2 / 21H1 / 21H2 / 22H2 / 23H2) you can check your build by following the instructions HERE.
 - Supported Anti-Cheat: BattlEye / Easy Anti-Cheat
 - Supported processors: Intel and AMD
-- Support invisibility on video or screenshots: No
+- Support invisibility on video or screenshots: Yes
 - BIOS boot mode: UEFI, you can check which format is used in your system by following the instructions HERE
 - System disk boot record format: GPT, check which format is used in your system by following the instructions HERE.
 - Additional Windows system requirements: Enable VT-x / VT-d (Virtualization) / Enable Hyper-V / Disable Secure Boot
