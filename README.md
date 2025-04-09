@@ -24,7 +24,7 @@ an ud fortnite cheat for v19.10
 - Fov / Set the radius of action of the animbot
 - Smooth / Set the smoothness of the animbot targeting
 
-## Wallhack:
+## ESP:
 - Box / Display 2D squares
 - Skeleton / Display skeletons
 - Distance / Display Distance
